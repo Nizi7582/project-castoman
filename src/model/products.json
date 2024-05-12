@@ -1,0 +1,11 @@
+[
+    { 
+        "nom": "Stylo", "quantite": 100, "prix": 0.5 
+    },
+    { 
+        "nom": "Cahier", "quantite": 50, "prix": 2
+    },
+    { 
+        "nom": "Crayon", "quantite": 80, "prix": 0.3 
+    }
+]
